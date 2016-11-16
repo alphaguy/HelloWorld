@@ -1,6 +1,6 @@
 #file main.c
 
 void main(void{
-  printf("Hello World\r\n");
+  printf("Bonjour la Monde\r\n");
   while(1);
 }
